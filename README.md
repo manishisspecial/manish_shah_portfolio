@@ -34,8 +34,8 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/manishisspecial/Portfolio_Manish_Kumar_Shah.git
-   cd Portfolio_Manish_Kumar_Shah
+   git clone https://github.com/manishisspecial/manish_shah_portfolio.git
+   cd manish_shah_portfolio
    ```
 
 2. Install dependencies
@@ -98,4 +98,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Manish Kumar Shah - manishspecial009@outlook.com
 
-Project Link: [https://github.com/manishisspecial/Portfolio_Manish_Kumar_Shah](https://github.com/manishisspecial/Portfolio_Manish_Kumar_Shah) 
+Project Link: [https://github.com/manishisspecial/manish_shah_portfolio](https://github.com/manishisspecial/manish_shah_portfolio) 
